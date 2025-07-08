@@ -39,3 +39,15 @@ All in a **single, easy-to-use Streamlit app**!
 git clone https://github.com/nagavallikareethu/Social-Spam-Fake-Detection-System.git
 cd Social-Spam-Fake-Detection-System
   
+
+🗂️ Project Structure
+bash
+Copy
+Edit
+📂 fine_tuned_distilbert_email/   # Email spam model
+📂 fine_tuned_mobilebert_sms/     # SMS spam model
+📂 fine_tuned_bert_news/          # Fake/Real News model
+📂 fine_tuned_roberta_social/     # Fake/Real Social Media model
+📜 app.py                         # Streamlit Interface
+📜 requirements.txt               # Dependencies
+📜 README.md                      # This file!
