@@ -38,7 +38,7 @@ All in a **single, easy-to-use Streamlit app**!
 ```bash
 git clone https://github.com/nagavallikareethu/Social-Spam-Fake-Detection-System.git
 cd Social-Spam-Fake-Detection-System
-```
+
 🗂️ Project Structure
 
 📂 fine_tuned_distilbert_email/   # Email spam model
