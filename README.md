@@ -49,6 +49,9 @@ cd Social-Spam-Fake-Detection-System
 📜 requirements.txt               # Dependencies
 📜 README.md                      # This file!
 
+```
+
+![image](https://github.com/user-attachments/assets/f62fe1ba-e5f1-4228-b068-8823071eb25c)
 
 
 
@@ -56,6 +59,4 @@ cd Social-Spam-Fake-Detection-System
 
 
 
-
-![image](https://github.com/user-attachments/assets/3f866d1f-0c71-46ff-9a34-c126cda0e028)
 
