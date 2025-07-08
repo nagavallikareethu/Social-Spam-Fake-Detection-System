@@ -48,3 +48,14 @@ cd Social-Spam-Fake-Detection-System
 📜 app.py                         # Streamlit Interface
 📜 requirements.txt               # Dependencies
 📜 README.md                      # This file!
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/3f866d1f-0c71-46ff-9a34-c126cda0e028)
+
