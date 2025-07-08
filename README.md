@@ -36,6 +36,6 @@ All in a **single, easy-to-use Streamlit app**!
 1️⃣ **Clone this repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/nagavallikareethu/Social-Spam-Fake-Detection-System.git
+cd Social-Spam-Fake-Detection-System
   
